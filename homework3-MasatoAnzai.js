@@ -1,3 +1,5 @@
+//Masato Anzai
+//Creative Coding
 //Variables declared for rotations and multiplier
 var theta1 = 0.0;
 var theta2 = 0.0;
