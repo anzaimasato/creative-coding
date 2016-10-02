@@ -1,3 +1,7 @@
+/**
+* Kevin's notes: really great use of while loops here!  Just remember to always
+* declare your variables with the keyword var beforehand.
+*/
 //Masato Anzai
 //Assignment 1
 //Creative Coding
