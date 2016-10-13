@@ -1,3 +1,8 @@
+/**
+* Kevin's comments:  This is great!  Now that we're getting to the functions lesson,
+I'd like to see how you would refactor this code into a function to make it more streamlined.  I really like the geometries you're using, and perhaps this would be 
+a good starting place for your midterm project!
+*/
 //Masato Anzai
 //Creative Coding
 //Variables declared for rotations and multiplier
