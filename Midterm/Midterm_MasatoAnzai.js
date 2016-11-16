@@ -1,9 +1,16 @@
+/**
+** Kevin's comments:  Very nice!  I love these characters, and had a fun time clicking 
+to see all of the different character combinations there were.  I would have loved to see more use of the color theories from 
+the color lecture, but that might be an area you can expand upon in your final projects.
+See inline comments for code specifics...
+**/
 //Masato Anzai
 //Midterm - Creative Coding
 //Creating a random zoo!
 //variables,loops,functions,colorMod(HSB)
 
-
+//instead of storing each as separate vars, why not declare a var _color and define it in a later function as
+// color(random(255), random(255), random(255))
 // color var init
 var r = 0;
 var g = 0;
@@ -23,7 +30,8 @@ function mouseClicked(){
   clear();
   zoo();
 }
-
+//nice use of a function here.
+//I'd love to see you expand on this with parameters to the function representing width and height of the zoo
 //Calling the animals
 function zoo(){
   for(var i = 35; i < width + 40; i += 40){
@@ -43,7 +51,7 @@ function zoo(){
 
 //Randomizes colors
 function randomColor(){
-  r = int(random(0,255));
+  r = int(random(0,255));u
   g = int(random(0,255));
   b = int(random(0,255));
 }
