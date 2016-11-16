@@ -1,7 +1,6 @@
 //Masato Anzai
-//Midterm - Creative Coding
-//Creating a random zoo!
-//variables,loops,functions,colorMod(HSB)
+//Creative Coding
+//Homework 5
 
 // color var init
 var r = 0;
