@@ -12,7 +12,7 @@ function setup() {
 function draw() {
   background(255);
   y = y + yspeed;
-  if (y > height || y < 0){
+  if (y > height || y < 0 || y > mouseY){
     yspeed *= -1.0;
   }
   ellipse(width/2,y,100,100);
